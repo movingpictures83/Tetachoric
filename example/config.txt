@@ -1,0 +1,2 @@
+Prefix plugins/Tetachoric/example/
+Plugin Tetachoric inputfile parameters.txt outputfile none

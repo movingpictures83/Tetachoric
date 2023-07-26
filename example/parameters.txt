@@ -1,0 +1,4 @@
+countA1	15
+countA2	15
+countB1	15
+countB2	13
