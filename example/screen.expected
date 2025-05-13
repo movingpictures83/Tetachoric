@@ -26,8 +26,8 @@
 [1] 15
 [1] 13
 Call: tetrachoric(x = data)
-tetrachoric correlation
+tetrachoric correlation 
 [1] -0.056
 
- with tau of
+ with tau of 
 [1] 0.043 0.043
